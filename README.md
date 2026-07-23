@@ -13,7 +13,7 @@ Ao longo da minha trajetória, atuei na organização e estruturação de bases 
             title="LinkedIn"
             width="30px"  
             src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />
-   
+    </a>
 
 ---
 
