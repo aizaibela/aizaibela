@@ -9,10 +9,10 @@ Ao longo da minha trajetória, atuei na organização e estruturação de bases 
 <p align="left">
     <a href="www.linkedin.com/in/izabela-lima4">
         <img 
-            alt="LinkedIn" 
-            title="LinkedIn"
-            width="30px"  
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />
+            alt="youtube subscribers" 
+            title="Inscreva-se no meu canal" 
+            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
+        />
     </a>
 
 ---
