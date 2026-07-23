@@ -6,14 +6,6 @@ Me chamo Izabela Lima. Atualmente, estou cursando Análise e Desenvolvimento de 
 
 Ao longo da minha trajetória, atuei na organização e estruturação de bases de dados, elaboração de relatórios técnicos, tabulação de informações e apoio à tomada de decisões em projetos nas áreas administrativa, científica e ambiental.
 ".
-<p align="left">
-    <a href="www.linkedin.com/in/izabela-lima4">
-        <img 
-            alt="youtube subscribers" 
-            title="Inscreva-se no meu canal" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
-        />
-    </a>
 
 ---
 
